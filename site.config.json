@@ -1,69 +1,64 @@
 {
-  "site_name": "China Comércio Latino",
-  "site_base_url": "https://chinacomerciolatino.com",
   "language": "pt-BR",
-  "tagline": "Um portal para negócios entre a China e a América Latina.",
-  "description": "Conteúdo para quem busca oportunidades comerciais, negociação com fornecedores e relações B2B entre China e América Latina.",
-  "author_name": "Redação China Comércio Latino",
-  "brand_color": "#6a1b9a",
-  "accent_color": "#ffca28",
   "default_og_image": "/assets/og/default.webp",
   "whatsapp": "https://wa.me/601133109658",
+  "site_name": "China Com\u00e9rcio Latino",
+  "site_base_url": "https://chinacomerciolatino.com",
+  "tagline": "Negocia\u00e7\u00e3o B2B China-LatAm com foco em fornecedor, proposta, parceria e comunica\u00e7\u00e3o comercial.",
+  "description": "China Com\u00e9rcio Latino \u00e9 dedicado a negocia\u00e7\u00f5es B2B entre China e Am\u00e9rica Latina, com \u00eanfase em proposta, fornecedor, contrato informal, comunica\u00e7\u00e3o e parceria comercial.",
+  "author_name": "Reda\u00e7\u00e3o China Com\u00e9rcio Latino",
+  "brand_color": "#6a1b9a",
+  "accent_color": "#ffca28",
   "default_categories": [
-    "Comércio China-Latinoamérica",
-    "Parcerias Comerciais",
-    "Negociação com Fornecedores",
+    "Com\u00e9rcio China Latinoam\u00e9rica",
+    "Negocia\u00e7\u00e3o com Fornecedores",
     "Oportunidades B2B"
   ],
   "category_meta": {
     "comercio-china-latinoamerica": {
-      "label": "Comércio China-Latinoamérica",
-      "description": "Artigos sobre relações comerciais, importação e desenvolvimento de negócios entre China e América Latina."
-    },
-    "parcerias-comerciais": {
-      "label": "Parcerias Comerciais",
-      "description": "Conteúdo sobre cooperação, alianças e construção de relações comerciais sustentáveis."
+      "label": "Ponte Comercial China-LatAm",
+      "description": "Leitura de oportunidades entre fornecedores chineses e compradores latino-americanos sem simplificar diferen\u00e7as de mercado."
     },
     "negociacao-com-fornecedores": {
-      "label": "Negociação com Fornecedores",
-      "description": "Dicas sobre comunicação, acordo comercial, preço, MOQ e alinhamento com fornecedores."
+      "label": "Negocia\u00e7\u00e3o com Fornecedor",
+      "description": "Roteiros de conversa, proposta, MOQ, amostra, prazo e condi\u00e7\u00f5es para negociar sem perder controle."
     },
     "oportunidades-b2b": {
-      "label": "Oportunidades B2B",
-      "description": "Análises de oportunidades para distribuidores, importadores e negócios B2B."
+      "label": "Parcerias B2B",
+      "description": "Como avaliar parceria, distribui\u00e7\u00e3o, recorr\u00eancia e risco comercial em acordos China-Am\u00e9rica Latina."
     }
   },
-  "hero_title": "Negociação com fornecedores da China para parcerias B2B",
-  "hero_subtitle": "Um site voltado para oportunidades B2B, parcerias comerciais e negociação entre a China e o mercado latino-americano.",
-  "primary_cta_label": "Ver oportunidades B2B",
-  "primary_cta_target": "/oportunidades-b2b/",
-  "secondary_cta_label": "Aprender a negociar",
-  "secondary_cta_target": "/negociacao-com-fornecedores/",
+  "hero_title": "Negocia\u00e7\u00e3o B2B China-LatAm com fornecedor chin\u00eas",
+  "hero_subtitle": "Um site para quem negocia B2B, monta parceria, compara fornecedor e precisa transformar interesse entre China e LatAm em acordo comercial verific\u00e1vel.",
+  "primary_cta_label": "Preparar negocia\u00e7\u00e3o",
+  "primary_cta_target": "/negociacao-com-fornecedores/",
+  "secondary_cta_label": "Avaliar parceria B2B",
+  "secondary_cta_target": "/oportunidades-b2b/",
   "pain_points": [
-    "Tratar fornecedor apenas como vendedor de curto prazo",
-    "Negociar mal e perder margem",
-    "Não saber estruturar parceria comercial",
-    "Focar só em preço e ignorar relação",
-    "Misturar compra simples com operação B2B",
-    "Não enxergar oportunidades mais estratégicas"
+    "Entrar em conversa B2B sem proposta objetiva",
+    "Negociar MOQ, amostra e prazo sem roteiro",
+    "Confundir simpatia do fornecedor com compromisso comercial",
+    "Ignorar diferen\u00e7a de pa\u00eds, idioma e canal na Am\u00e9rica Latina",
+    "Fechar parceria sem crit\u00e9rio de recorr\u00eancia",
+    "Perder hist\u00f3rico escrito da negocia\u00e7\u00e3o"
   ],
   "homepage_featured_categories": [
-    "comercio-china-latinoamerica",
     "negociacao-com-fornecedores",
+    "comercio-china-latinoamerica",
     "oportunidades-b2b"
   ],
   "homepage_faq": [
     {
-      "q": "Como transformar compra da China em relacionamento comercial?",
-      "a": "O ponto central é sair da lógica de preço imediato e começar a negociar prazo, condição, confiança e continuidade com o fornecedor."
+      "q": "Qual \u00e9 o foco deste site dentro da rede?",
+      "a": "Negocia\u00e7\u00e3o B2B entre China e Am\u00e9rica Latina: proposta, fornecedor, comunica\u00e7\u00e3o, parceria e acordo comercial."
     },
     {
-      "q": "O que mais pesa em uma negociação com fornecedores chineses?",
-      "a": "Clareza do pedido, consistência na comunicação, volume possível e capacidade de construir uma relação comercial previsível."
+      "q": "O que preparar antes de falar com fornecedor chin\u00eas?",
+      "a": "Volume estimado, especifica\u00e7\u00e3o, prazo desejado, perguntas sobre amostra, embalagem, MOQ e uma forma clara de registrar a resposta."
     },
     {
-      "q": "Vale a pena pensar em oportunidades B2B mesmo começando pequeno?",
-      "a": "Sim. Entender a lógica B2B cedo ajuda a negociar melhor, evitar erros e enxergar caminhos mais estratégicos para o negócio."
+      "q": "Parceria B2B deve come\u00e7ar por pre\u00e7o?",
+      "a": "N\u00e3o. Pre\u00e7o importa, mas parceria precisa de capacidade, comunica\u00e7\u00e3o, recorr\u00eancia e regra m\u00ednima de responsabilidade."
     }
   ]
 }
