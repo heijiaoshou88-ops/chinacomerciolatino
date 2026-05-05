@@ -1,0 +1,69 @@
+{
+  "site_name": "China Comércio Latino",
+  "site_base_url": "https://chinacomerciolatino.com",
+  "language": "pt-BR",
+  "tagline": "Um portal para negócios entre a China e a América Latina.",
+  "description": "Conteúdo para quem busca oportunidades comerciais, negociação com fornecedores e relações B2B entre China e América Latina.",
+  "author_name": "Redação China Comércio Latino",
+  "brand_color": "#6a1b9a",
+  "accent_color": "#ffca28",
+  "default_og_image": "/assets/og/default.webp",
+  "whatsapp": "https://wa.me/601133109658",
+  "default_categories": [
+    "Comércio China-Latinoamérica",
+    "Parcerias Comerciais",
+    "Negociação com Fornecedores",
+    "Oportunidades B2B"
+  ],
+  "category_meta": {
+    "comercio-china-latinoamerica": {
+      "label": "Comércio China-Latinoamérica",
+      "description": "Artigos sobre relações comerciais, importação e desenvolvimento de negócios entre China e América Latina."
+    },
+    "parcerias-comerciais": {
+      "label": "Parcerias Comerciais",
+      "description": "Conteúdo sobre cooperação, alianças e construção de relações comerciais sustentáveis."
+    },
+    "negociacao-com-fornecedores": {
+      "label": "Negociação com Fornecedores",
+      "description": "Dicas sobre comunicação, acordo comercial, preço, MOQ e alinhamento com fornecedores."
+    },
+    "oportunidades-b2b": {
+      "label": "Oportunidades B2B",
+      "description": "Análises de oportunidades para distribuidores, importadores e negócios B2B."
+    }
+  },
+  "hero_title": "Negociação com fornecedores da China para parcerias B2B",
+  "hero_subtitle": "Um site voltado para oportunidades B2B, parcerias comerciais e negociação entre a China e o mercado latino-americano.",
+  "primary_cta_label": "Ver oportunidades B2B",
+  "primary_cta_target": "/oportunidades-b2b/",
+  "secondary_cta_label": "Aprender a negociar",
+  "secondary_cta_target": "/negociacao-com-fornecedores/",
+  "pain_points": [
+    "Tratar fornecedor apenas como vendedor de curto prazo",
+    "Negociar mal e perder margem",
+    "Não saber estruturar parceria comercial",
+    "Focar só em preço e ignorar relação",
+    "Misturar compra simples com operação B2B",
+    "Não enxergar oportunidades mais estratégicas"
+  ],
+  "homepage_featured_categories": [
+    "comercio-china-latinoamerica",
+    "negociacao-com-fornecedores",
+    "oportunidades-b2b"
+  ],
+  "homepage_faq": [
+    {
+      "q": "Como transformar compra da China em relacionamento comercial?",
+      "a": "O ponto central é sair da lógica de preço imediato e começar a negociar prazo, condição, confiança e continuidade com o fornecedor."
+    },
+    {
+      "q": "O que mais pesa em uma negociação com fornecedores chineses?",
+      "a": "Clareza do pedido, consistência na comunicação, volume possível e capacidade de construir uma relação comercial previsível."
+    },
+    {
+      "q": "Vale a pena pensar em oportunidades B2B mesmo começando pequeno?",
+      "a": "Sim. Entender a lógica B2B cedo ajuda a negociar melhor, evitar erros e enxergar caminhos mais estratégicos para o negócio."
+    }
+  ]
+}
