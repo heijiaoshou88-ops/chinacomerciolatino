@@ -3,45 +3,43 @@
   "default_og_image": "/assets/og/default.webp",
   "whatsapp": "https://wa.me/601133109658",
   "homepage_layout": "negotiation",
-  "site_name": "China Com\u00e9rcio Latino",
+  "site_name": "China Comércio Latino",
   "site_base_url": "https://chinacomerciolatino.com",
-  "tagline": "Negocia\u00e7\u00e3o B2B China-LatAm com foco em fornecedor, proposta, parceria e comunica\u00e7\u00e3o comercial.",
-  "description": "China Com\u00e9rcio Latino \u00e9 dedicado a negocia\u00e7\u00f5es B2B entre China e Am\u00e9rica Latina, com \u00eanfase em proposta, fornecedor, contrato informal, comunica\u00e7\u00e3o e parceria comercial.",
-  "author_name": "Reda\u00e7\u00e3o China Com\u00e9rcio Latino",
+  "tagline": "Negociação China-LatAm sem proposta vaga",
+  "description": "Modelos de conversa, filtros de proposta e critérios para evitar acordo bonito que não vira operação confiável.",
+  "author_name": "Equipe China Comércio Latino, especialista em negociação China-LatAm",
   "brand_color": "#6a1b9a",
   "accent_color": "#ffca28",
   "default_categories": [
-    "Com\u00e9rcio China Latinoam\u00e9rica",
-    "Negocia\u00e7\u00e3o com Fornecedores",
+    "Comércio China Latinoamérica",
+    "Negociação com Fornecedores",
     "Oportunidades B2B"
   ],
   "category_meta": {
     "comercio-china-latinoamerica": {
       "label": "Ponte Comercial China-LatAm",
-      "description": "Leitura de oportunidades entre fornecedores chineses e compradores latino-americanos sem simplificar diferen\u00e7as de mercado."
+      "description": "Leitura de oportunidades entre fornecedores chineses e compradores latino-americanos sem simplificar diferenças de mercado."
     },
     "negociacao-com-fornecedores": {
-      "label": "Negocia\u00e7\u00e3o com Fornecedor",
-      "description": "Roteiros de conversa, proposta, MOQ, amostra, prazo e condi\u00e7\u00f5es para negociar sem perder controle."
+      "label": "Negociação com Fornecedor",
+      "description": "Roteiros de conversa, proposta, MOQ, amostra, prazo e condições para negociar sem perder controle."
     },
     "oportunidades-b2b": {
       "label": "Parcerias B2B",
-      "description": "Como avaliar parceria, distribui\u00e7\u00e3o, recorr\u00eancia e risco comercial em acordos China-Am\u00e9rica Latina."
+      "description": "Como avaliar parceria, distribuição, recorrência e risco comercial em acordos China-América Latina."
     }
   },
-  "hero_title": "Negocia\u00e7\u00e3o B2B China-LatAm com fornecedor chin\u00eas",
-  "hero_subtitle": "Um site para quem negocia B2B, monta parceria, compara fornecedor e precisa transformar interesse entre China e LatAm em acordo comercial verific\u00e1vel.",
-  "primary_cta_label": "Preparar negocia\u00e7\u00e3o",
-  "primary_cta_target": "/negociacao-com-fornecedores/",
-  "secondary_cta_label": "Avaliar parceria B2B",
-  "secondary_cta_target": "/oportunidades-b2b/",
+  "hero_title": "Negociação China-LatAm com proposta clara, prazo e responsabilidade",
+  "hero_subtitle": "Modelos de conversa, filtros de proposta e critérios para evitar acordo bonito que não vira operação confiável.",
+  "primary_cta_label": "Preparar proposta B2B",
+  "primary_cta_target": "/negociacao-com-fornecedores/003-como-preparar-proposta-b2b-para-fornecedor-chines-responder-melhor.html",
+  "secondary_cta_label": "Comparar propostas",
+  "secondary_cta_target": "/comercio-china-latinoamerica/003-como-comparar-duas-propostas-chinesas-alem-do-preco.html",
   "pain_points": [
-    "Entrar em conversa B2B sem proposta objetiva",
-    "Negociar MOQ, amostra e prazo sem roteiro",
-    "Confundir simpatia do fornecedor com compromisso comercial",
-    "Ignorar diferen\u00e7a de pa\u00eds, idioma e canal na Am\u00e9rica Latina",
-    "Fechar parceria sem crit\u00e9rio de recorr\u00eancia",
-    "Perder hist\u00f3rico escrito da negocia\u00e7\u00e3o"
+    "Risco central: 拉美买家与中国供应商沟通、谈判、合作、文化差异",
+    "Leitor atendido: comprador latino que precisa negociar com fornecedor chinês sem resposta vaga",
+    "Fronteira editorial: 不抢巴西税费深词，不写平台购买教程",
+    "Decisão sempre baseada em prova, custo e condição para pausar"
   ],
   "homepage_featured_categories": [
     "negociacao-com-fornecedores",
@@ -50,22 +48,23 @@
   ],
   "homepage_faq": [
     {
-      "q": "Qual \u00e9 o foco deste site dentro da rede?",
-      "a": "Negocia\u00e7\u00e3o B2B entre China e Am\u00e9rica Latina: proposta, fornecedor, comunica\u00e7\u00e3o, parceria e acordo comercial."
+      "q": "Como fazer fornecedor chinês responder melhor?",
+      "a": "Envie produto, volume, destino, prazo desejado e perguntas que exigem número, não só interesse genérico."
     },
     {
-      "q": "O que preparar antes de falar com fornecedor chin\u00eas?",
-      "a": "Volume estimado, especifica\u00e7\u00e3o, prazo desejado, perguntas sobre amostra, embalagem, MOQ e uma forma clara de registrar a resposta."
+      "q": "Quando uma negociação está fraca?",
+      "a": "Quando há cordialidade, mas faltam MOQ, lead time, embalagem, amostra, responsabilidade e próximo passo."
     },
     {
-      "q": "Parceria B2B deve come\u00e7ar por pre\u00e7o?",
-      "a": "N\u00e3o. Pre\u00e7o importa, mas parceria precisa de capacidade, comunica\u00e7\u00e3o, recorr\u00eancia e regra m\u00ednima de responsabilidade."
+      "q": "Preço menor resolve a parceria?",
+      "a": "Não. Parceria precisa de clareza sobre reposição, prazo, ajuste, comunicação e quem corrige problema."
     }
   ],
   "author_profile": {
-    "name": "Equipe editorial China Com\u00e9rcio Latino",
-    "role": "Pesquisa editorial sobre negocia\u00e7\u00e3o B2B China-LatAm",
-    "bio": "Equipe dedicada a proposta comercial, MOQ, amostra, comunica\u00e7\u00e3o com fornecedor chin\u00eas e parceria B2B para compradores latino-americanos.",
-    "experience": "Os guias trabalham com roteiros de conversa, perguntas copi\u00e1veis e crit\u00e9rios para registrar condi\u00e7\u00f5es antes de avan\u00e7ar."
-  }
+    "name": "Equipe editorial China Comércio Latino",
+    "role": "Pesquisa editorial sobre negociação B2B China-LatAm",
+    "bio": "Equipe dedicada a proposta comercial, MOQ, amostra, comunicação com fornecedor chinês e parceria B2B para compradores latino-americanos.",
+    "experience": "Os guias trabalham com roteiros de conversa, perguntas copiáveis e critérios para registrar condições antes de avançar."
+  },
+  "precision_homepage_type": "conversa"
 }
